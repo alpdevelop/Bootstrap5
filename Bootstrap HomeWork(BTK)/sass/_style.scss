@@ -1,0 +1,22 @@
+#reverseIcon::before {
+  transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  color: #ff6a45;
+  font-size: 30px;
+}
+.bi-quote {
+  color: #ff6a45;
+  font-size: 30px;
+}
+#features .bi {
+  color: #ff6a45;
+  font-size: 50px;
+}
+a {
+  color: #309e2c;
+}
+footer .social .bi {
+  color: #309e2c;
+}
